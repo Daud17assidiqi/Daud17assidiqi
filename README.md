@@ -37,6 +37,6 @@ I'm Daud Assidiqi a passionate software developer from Indonesia. Welcome to my 
 
 - LinkedIn: [ LinkedIn ](https://www.linkedin.com/in/daud-a-6010741aa/)
 - Twitter: [Twitter](https://twitter.com/fixsual_)
-- Portfolio: [Portfolio ](https://daud17assidiqi.github.io/daudassidiqi.github.io/)
+- Portfolio: [Portfolio ](https://daud17assidiqi.github.io/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
